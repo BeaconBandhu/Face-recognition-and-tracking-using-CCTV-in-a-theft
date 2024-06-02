@@ -1,4 +1,5 @@
 # Face-recognition-and-tracking-using-CCTV-in-a-theft
+Combine age_net.caffemodel parts as one and name it as age_net.caffemodel
 **Project Description: CCTV Camera with Intelligent Theft Detection and Alert System**
 
 In this project, I developed an advanced CCTV camera module equipped with intelligent theft detection and alert capabilities. The system is designed to enhance security by capturing and tracking human faces during a theft incident, subsequently notifying the residents or any emergency contacts set in the directory.
